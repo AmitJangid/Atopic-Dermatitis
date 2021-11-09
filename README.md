@@ -9,3 +9,5 @@ Before using the scripts make four new folders
       4. dataR
       
 and put all these folders and all script ("Python script for IFN-gamma sub-network") in one folder "scripts" (just for path  to access the file)
+
+Similar for il4 sub-network
