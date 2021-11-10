@@ -1,13 +1,8 @@
 # Atopic-Dermatitis
 Python script for Atopic Dermatitis
 
-Before using the scripts make four new folders
+Before using the scripts put all the folders (ifn_data_1p, ifn_data_2p and ifn_data$) and all script ("Python script for IFN-gamma sub-network") in one folder "scripts" (just for path  to access the file.
 
-      1. junk
-      2. data_1p
-      3. data_2p
-      4. dataR
-      
-and put all these folders and all script ("Python script for IFN-gamma sub-network") in one folder "scripts" (just for path  to access the file)
+[cross veryfy the folder name in the path]
 
-Similar for il4 sub-network
+Similar for il4 sub-network.
